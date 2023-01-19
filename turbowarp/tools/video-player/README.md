@@ -1,6 +1,6 @@
 ## Video Player Maker Documentation
 
-v0.3.0
+`v0.3.0`
 
 ### Overview
 
@@ -21,3 +21,7 @@ Set the variable "Duration" to the length of your video in 1/30ths of a second. 
 This project works the same at any framerate.
 
 That's about it!
+
+---
+
+(Ͻ) 2023 DNin01 from GitHub. Available under a CC-BY-SA 2.0 license.

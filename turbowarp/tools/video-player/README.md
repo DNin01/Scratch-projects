@@ -22,6 +22,10 @@ This project works the same at any framerate.
 
 That's about it!
 
+### Other
+
+This project uses the [Mouse Cursor](https://extensions.turbowarp.org/cursor.js) and [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) TurboWarp extensions.
+
 ---
 
 (Ͻ) 2023 DNin01 from GitHub. Available under a CC-BY-SA 2.0 license.

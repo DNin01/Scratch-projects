@@ -6,7 +6,7 @@ Scratch is a coding language and online community where you can create your own 
 
 ### How do I open your Scratch projects?
 
-From the GitHub website, navigate to the .sb3 file for the project you want to open, then click the Download button, which should be over on the right.
+From the GitHub website, navigate to the .sb3 file for the project you want to open, then click the download button, which should be over on the right.
 
 Alternatively, clone this repository and extract the file from the cloned repository.
 

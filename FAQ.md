@@ -6,11 +6,7 @@ Scratch is a coding language and online community where you can create your own 
 
 ### How do I open your Scratch projects?
 
-From the GitHub website, navigate to the .sb3 file for the project you want to open, then click the download button, which should be over on the right.
-
-Alternatively, clone this repository and extract the file from the cloned repository.
-
-Now you've downloaded the file, but how do we open it? Well, the projects I've shared here so far cannot be opened in regular Scratch - they use features exclusive to [TurboWarp](https://turbowarp.org/), a Scratch mod maintained by [GarboMuffin](https://github.com/GarboMuffin), so open [TurboWarp](https://turbowarp.org/) and then load the project into it.
+See [Downloading and Opening](https://github.com/DNin01/Scratch-projects/blob/main/INSTALLING.md).
 
 ### Can I use your work in my projects?
 

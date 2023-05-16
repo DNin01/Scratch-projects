@@ -1,6 +1,6 @@
 ## Video Player Maker Documentation
 
-`v0.3.0`
+`v0.4.0`
 
 ### Overview
 
@@ -24,7 +24,10 @@ That's about it!
 
 ### Other
 
-This project uses the [Mouse Cursor](https://extensions.turbowarp.org/cursor.js) and [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) TurboWarp extensions.
+This project uses the following TurboWarp extensions:
+- [Mouse Cursor](https://extensions.turbowarp.org/cursor.js)
+- [Runtime Options](https://extensions.turbowarp.org/runtime-options.js)
+- [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)
 
 ---
 

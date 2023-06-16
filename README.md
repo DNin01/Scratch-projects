@@ -10,4 +10,4 @@ See [Downloading and Opening](https://github.com/DNin01/Scratch-projects/blob/ma
 
 All of my own content in this repository is under a [Creative Commons Attribution ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). This means anyone is allowed to use, adapt, and reshare everything I made in here. Just mention "DNin01 from GitHub" and preferably link to this repository and license your adaptations of the content under the same license, and you can go ahead and use these in your own projects!
 
-If you use these in a Scratch project you share on the Scratch website, be aware that Scratch may or may not want users to link to GitHub (I'm not absolutely sure), so maybe don't use these on the Scratch website. Please don't not give credit because of that, though.
+If you use these in a Scratch project you share on the Scratch website, be aware that Scratch is made for kids and linking to GitHub from Scratch might violate their Community Guidelines (I'm not absolutely sure). Please don't not give credit because of that, though.

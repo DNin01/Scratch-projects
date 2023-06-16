@@ -10,7 +10,7 @@ See [Downloading and Opening](https://github.com/DNin01/Scratch-projects/blob/ma
 
 ### Can I use your work in my projects?
 
-Absolutely! Everything I made in here is under a [Creative Commons Attribution ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode), which, by the way, is the same license user-generated content shared to Scratch use. You just give credit, share your work under the same license, and you're good! Check the [README](https://github.com/DNin01/Scratch-projects/blob/main/README.md#license-and-giving-credit) for more info.
+Absolutely! Everything I made in here is under a [Creative Commons Attribution ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode), which, by the way, is the same license user-generated content shared to Scratch use. You just give credit to me and everyone else whose work I used, share your work under the same license, and you're good! Check the [README](https://github.com/DNin01/Scratch-projects/blob/main/README.md#license-and-giving-credit) for more info.
 
 ### I have another question.
 

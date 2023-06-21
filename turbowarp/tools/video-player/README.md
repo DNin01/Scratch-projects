@@ -1,16 +1,12 @@
-## Video Player Maker Documentation
+## Video Player Maker
 
 `v0.4.0`
-
-### Overview
 
 This project gives you the basic components for making videos and animations that users can fast-forward, rewind, and pause.
 
 This video player does not come with audio seeking support, and Scratch has no built-in features to do this. This means that you can't line up audio with the video if users pause or skip unless you make your own way or use someone else's way.
 
 It's possible to control the video by using the controls at the bottom of the player or with keyboard shortcuts.
-
-**Open this project in [TurboWarp](https://turbowarp.org/).**
 
 ### How to use
 
@@ -22,12 +18,13 @@ This project works the same at any framerate.
 
 That's about it!
 
-### Other
+### Credits
 
-This project uses the following TurboWarp extensions:
+Thanks to the following TurboWarp extensions for making this possible:
 - [Mouse Cursor](https://extensions.turbowarp.org/cursor.js)
-- [Runtime Options](https://extensions.turbowarp.org/runtime-options.js)
 - [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)
+
+I also used the [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) extension to make the project work at any framerate.
 
 ---
 

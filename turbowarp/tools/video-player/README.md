@@ -22,8 +22,9 @@ That's about it!
 
 Thanks to the following TurboWarp extensions for making this possible:
 - [Mouse Cursor](https://extensions.turbowarp.org/cursor.js)
-- [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)
-- [Couplers](https://extensions.turbowarp.org/true-fantom/couplers.js)
+- Scratch Lab's [Animated Text](https://extensions.turbowarp.org/lab/text.js)
+- JeremyGamer13's [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)
+- TrueFantom's [Couplers](https://extensions.turbowarp.org/true-fantom/couplers.js)
 
 I also used the [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) extension to make the project work at any framerate.
 

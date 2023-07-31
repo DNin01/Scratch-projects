@@ -1,6 +1,6 @@
 ## Video Player Maker
 
-`v0.4.0`
+`v0.5.0`
 
 This project gives you the basic components for making videos and animations that users can fast-forward, rewind, and pause.
 
@@ -23,6 +23,7 @@ That's about it!
 Thanks to the following TurboWarp extensions for making this possible:
 - [Mouse Cursor](https://extensions.turbowarp.org/cursor.js)
 - [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)
+- [Couplers](https://extensions.turbowarp.org/true-fantom/couplers.js)
 
 I also used the [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) extension to make the project work at any framerate.
 

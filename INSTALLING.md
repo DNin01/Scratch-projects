@@ -45,12 +45,21 @@ All of the projects in the `turbowarp` directory need to be opened in [TurboWarp
 
 <details><summary>If you get an error...</summary>
 
-  #### Check that the extension is supported
+  #### Check that the extension is up to date
 
-  If you decide to use [TurboWarp Desktop](https://desktop.turbowarp.org/), be aware that it comes with a copy of all extensions from the official [TurboWarp Extension Gallery](https://extensions.turbowarp.org/). This means that they work offline but might be outdated. Try again on the website or try updating TurboWarp Desktop.
+  If you decide to use [TurboWarp Desktop](https://desktop.turbowarp.org/), be aware that it **comes with a copy** of all extensions from the official [TurboWarp Extension Gallery](https://extensions.turbowarp.org/). This means that they work offline but might be outdated. Try again on the website or try updating TurboWarp Desktop.
 
   #### Don't double-click the file!
 
-  It's super easy to just double-click by habit and be done, but it won't work for these. Unless you have set `.sb3` files to open in TurboWarp Desktop, you're obviously going to encounter an error because it is probably opening in the Scratch app instead, which does not support the TurboWarp features used in these projects.
+  It's super easy to just open your file manager and double-click by habit and be done, but it won't work for these. Unless you have set `.sb3` files to open in TurboWarp Desktop, you're obviously going to encounter an error because it is probably opening in the Scratch app instead, which does not support the TurboWarp features used in these projects.
+
+  #### Make sure you're connected
+
+  Content filters or issues with internet connection or the TurboWarp Extension Gallery at [extensions.turbowarp.org](https://extensions.turbowarp.org) can prevent the extensions the projects depend on from loading, and the project will subsequently fail to load.
+  
+  If you're having issues fetching the extensions, another way to load them is through [TurboWarp Desktop](https://desktop.turbowarp.org/). Being an offline app, it comes bundled with a copy of all of the extensions in the gallery.
+  
+  > **Warning**
+  > As the desktop app comes with a copy of the extensions in the gallery, they may be outdated and not work in some projects. For the best results, update to the latest version.
 
 </details>

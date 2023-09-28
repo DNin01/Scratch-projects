@@ -30,7 +30,7 @@ This is mostly a proof of concept to show that this is possible and to try somet
 
 ## Credits
 
-Thanks to the following TurboWarp extensions for making this possible:
+Thanks to the following [TurboWarp extensions](https://extensions.turbowarp.org/) for making this possible:
 - [Local Storage](https://extensions.turbowarp.org/local-storage.js)
 - Skyhigh173's [JSON](https://extensions.turbowarp.org/Skyhigh173/json.js)
 

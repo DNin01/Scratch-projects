@@ -21,7 +21,7 @@ That's about it!
 
 ### Credits
 
-Thanks to the following TurboWarp extensions for making this possible:
+Thanks to the following [TurboWarp extensions](https://extensions.turbowarp.org/) for making this possible:
 - [Mouse Cursor](https://extensions.turbowarp.org/cursor.js)
 - Scratch Lab's [Animated Text](https://extensions.turbowarp.org/lab/text.js)
 - JeremyGamer13's [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)

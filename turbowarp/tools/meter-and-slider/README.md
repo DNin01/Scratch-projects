@@ -43,7 +43,7 @@ To change the design of the meter, just go into the costume editor and modify th
 
 ### Credits
 
-Thanks to [Vadik1](https://scratch.mit.edu/users/Vadik1/)'s [Clipping & Blending](https://extensions.turbowarp.org/Xeltalliv/clippingblending.js) TurboWarp extension for making this much easier.
+Thanks to [Vadik1](https://scratch.mit.edu/users/Vadik1/)'s [Clipping & Blending](https://extensions.turbowarp.org/Xeltalliv/clippingblending.js) TurboWarp extension for making this possible!
 
 ---
 

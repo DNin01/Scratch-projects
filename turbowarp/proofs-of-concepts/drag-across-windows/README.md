@@ -1,6 +1,6 @@
 # Drag Across Windows
 
-`v1.0.0`
+`v2.0.0`
 
 With TurboWarp and a bit of magic, I managed to break the boundaries of the project and transfer draggable items from one window to another, without even using Cloud variables like you might have expected with this sort of feature.
 
@@ -24,9 +24,8 @@ This is mostly a proof of concept to show that this is possible and to try somet
 
 - **I have organized the code in the one included sprite such that anything off to the right is necessary for Drag Across Windows to function (be careful modifying it, otherwise you might break something, but you can and should look at it so that you can learn how it works) and anything on the left can be modified as you wish.**
 - Everything is self-contained in the one included sprite, so all you have to do is import that one thing and you're off!
-- Add 9 to the costume number when putting it in the list. List items reported by list reporter blocks are space separated unless every item in the list is one digit long. Adding 9 to the costume number, which will be at least 1, prevents this from happening. The spaces are important for converting the data to JSON. You can also add a trailing, meaningless list item that is either blank or at least 2 digits long instead. Either one will keep the list reporter result space-separated.
-- You have to click twice, once to pick up and once to place because it simplifies the code. Once your mouse button is down, only the window you clicked in can tell that your mouse button is down, and I decided to let the window the item is being placed in communicate with other windows that the item was placed for simplicity and responsiveness reasons. Maybe I'll change this behavior someday.
-- If the clones acting as the draggable items are running code, then the code will be restarted when the item is placed. This happens because when you pick up the item, the clone is actually deleted and the appearance is copied to the parent sprite, then a new clone is created when you place it.
+- You have to click twice, once to pick up and once to place. The reason I went with this behavior is because, in Windows at least, if you hold down the mouse button while moving the cursor outside the window, only that window will be able to tell where your mouse is going and that your mouse button is down, until you release it.
+- If the clones acting as the draggable items are running code, then the code will be restarted when the item is placed. This happens because when you pick up the item, the clone is actually deleted and the parent sprite takes on its appearance, then a new clone is created when you place it.
 
 ## Credits
 

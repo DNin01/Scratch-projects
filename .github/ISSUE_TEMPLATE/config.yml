@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question
+    url: https://github.com/DNin01/Scratch-projects/discussions/new/choose
+    about: Ask for help by opening a discussion

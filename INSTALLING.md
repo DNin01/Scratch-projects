@@ -12,7 +12,7 @@ There are multiple different ways to go about downloading, and you can choose wh
 
   To do this, simply navigate to the `.sb3` file you want in the Code tab and click the download button. For example, to download Drag Across Windows, navigate to `turbowarp` → `proofs-of-concepts` → `drag-across-windows` → `Drag Across Windows.sb3` then click the download button.
 
-  > **Note**
+  > [!NOTE]
   > You will need to repeat this manually whenever the projects are updated.
 
 </details>
@@ -23,7 +23,7 @@ There are multiple different ways to go about downloading, and you can choose wh
 
   After downloading the archive, extract the `.sb3` file you want.
 
-  > **Note**
+  > [!NOTE]
   > You will need to repeat this manually whenever the projects are updated.
 
 </details>
@@ -59,7 +59,7 @@ All of the projects in the `turbowarp` directory need to be opened in [TurboWarp
   
   If you're having issues fetching the extensions, another way to load them is through [TurboWarp Desktop](https://desktop.turbowarp.org/). Being an offline app, it comes bundled with a copy of all of the extensions in the gallery.
   
-  > **Warning**
+  > [!WARNING]
   > As the desktop app comes with a copy of the extensions in the gallery, they may be outdated and not work in some projects. For the best results, update to the latest version.
 
 </details>

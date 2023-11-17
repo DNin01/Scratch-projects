@@ -4,7 +4,7 @@
 
 This project gives you the basic components for making videos and animations that users can fast-forward, rewind, and pause.
 
-> **Note**
+> [!NOTE]
 > This video player does not come with audio seeking support... yet.
 
 It's possible to control the video by using the controls at the bottom of the player or with keyboard shortcuts.

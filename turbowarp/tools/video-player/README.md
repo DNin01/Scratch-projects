@@ -5,17 +5,31 @@
 This project gives you the basic components for making videos and animations that users can fast-forward, rewind, and pause.
 
 > [!NOTE]
-> This video player does not come with audio seeking support... yet.
+> This video player does not come with audio track seeking support... yet.
 
 It's possible to control the video by using the controls at the bottom of the player or with keyboard shortcuts.
 
 ### How to use
 
-The "Progress bar" sprite contains all the essential components to make the video player run. The "Flower" sprite is just an example animation that you can use as a starter. Take both of them with you to start, or just "Progress bar" if you're brave or you know how it works.
+#### Getting set up
 
-Set the variable "Duration" to the length of your video in 1/30ths of a second. One of the scripts sets it to 1,800 (which means 60 seconds) by default, so modify that value to change the duration.
+The "Progress bar" sprite contains all the essential components to make the video player run. The "Flower" sprite is just a demo animation that you can use as a reference. You can take just "Progress bar" if you're making something.
 
-This project works the same at any framerate.
+#### Setting the scene
+
+Set the variable "Duration" to the length of your video in frames.
+
+> [!TIP]
+> Scratch runs at 30 frames per second, so the duration is measured in 1/30ths of a second.
+
+One of the default scripts sets this value to 1,800 (which equals 60 seconds), so modify that value to change the duration.
+
+This project works the same at any framerate, by calculating the speed at which it would run if it were still at 30 FPS, so if you're going to change the framerate, just refer to a "frame" as 1/30th of a second.
+
+From there, just create your video's code! Use the "Time" variable to get the current time of the video in frames.
+
+> [!NOTE]
+> If you change the framerate, this might be a decimal number.
 
 That's about it!
 

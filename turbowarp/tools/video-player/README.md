@@ -34,7 +34,9 @@ If you're going to change the framerate, just refer to a "frame" (as a measureme
 To start making a video, you just need to code it. Use the `Time` variable as mentioned before to get the current time (measured in `MEASUREMENT_UNIT` seconds).
 
 > [!IMPORTANT]
-> You'll probably want to layer your video's content below the "Progress bar" sprite. You can do this by running `go to (back v) layer` on the sprites belonging to your video, or by running `go to (front v) layer` on the "Progress bar" sprite. This also helps with code execution order (if you notice some lag and you've layered the sprites correctly, try clicking the green flag on the project player again).
+> 1. Note that the value of the `Time` variable can be a decimal and may skip a beat when delta time is being used, so don't rely on `=` or even `round` operations with it. Instead, check when it surpasses a timestamp (a "not less than" operation would be the best) if you want to trigger an event at a certain time.
+>
+> 2. You'll probably want to layer your video's content below the "Progress bar" sprite. You can do this by running `go to (back v) layer` on the sprites belonging to your video, or by running `go to (front v) layer` on the "Progress bar" sprite. This also helps with code execution order (if you notice some lag and you've layered the sprites correctly, try clicking the green flag on the project player again).
 
 In case you ask, yes, you can safely initialize and even run a loop to update the sprites in your video on green flag.
 
@@ -50,10 +52,10 @@ Thanks to the following [TurboWarp extensions](https://extensions.turbowarp.org/
 - [Mouse Cursor](https://extensions.turbowarp.org/cursor.js)
 - My [Wake Lock](https://extensions.turbowarp.org/DNin/wake-lock.js)
 - Scratch Lab's [Animated Text](https://extensions.turbowarp.org/lab/text.js)
+- [Runtime Options](https://extensions.turbowarp.org/runtime-options.js)
+- XeroName's [Deltatime](https://extensions.turbowarp.org/XeroName/Deltatime.js)
 - JeremyGamer13's [Tweening](https://extensions.turbowarp.org/JeremyGamer13/tween.js)
 - TrueFantom's [Couplers](https://extensions.turbowarp.org/true-fantom/couplers.js)
-
-I also used the [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) extension to make the project work at any framerate.
 
 ---
 

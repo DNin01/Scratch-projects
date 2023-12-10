@@ -1,0 +1,10 @@
+# Mark files as either text or binary. Git will only touch line endings in text files.
+*              text=auto
+*.md           text
+*.yml          text
+*.sb3          binary
+
+# Don't need to include developer-facing files in archives.
+/.github       export-ignore
+FAQ.md         export-ignore
+INSTALLING.md  export-ignore

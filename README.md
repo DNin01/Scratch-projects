@@ -8,6 +8,18 @@ See [Downloading and Opening](https://github.com/DNin01/Scratch-projects/blob/ma
 
 ## License and giving credit
 
-All of my own content in this repository is under a [Creative Commons Attribution ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). This means anyone is allowed to use, adapt, and reshare everything I made in here. Just mention "DNin01 from GitHub" and preferably link to this repository and license your adaptations of the content under the same license, and you can go ahead and use these in your own projects!
+All content in this repository is under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode) unless otherwise stated. This means anyone is allowed to use, adapt, and reshare everything I made in here, under the following conditions:
+- You give attribution (preferably a mention of my name, a link to this repository, and the copyright license in use). It's best to provide attribution both in the repository containing your Scratch project (if you have one) and inside your Scratch project itself. For example:
+  > #### In your source code repository
+  > Credits:
+  > - [Video Player Maker](https://github.com/DNin01/Scratch-projects/tree/main/turbowarp/tools/video-player) by [@DNin01](https://github.com/DNin01) (CC-BY-SA 2.0)
+  > #### Inside your Scratch project
+  > Credits:
+  > - Video Player Maker by DNin01
+  > 
+  > (links in source code)
+- License your adaptations of the content under the same license.
+
+Provided those conditions are met, you can go ahead and use these in your own projects!
 
 If you use these in a Scratch project you share on the Scratch website, be aware that Scratch is made for kids and linking to GitHub from Scratch might violate their Community Guidelines (I'm not absolutely sure). Please don't not give credit because of that, though.

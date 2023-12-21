@@ -4,13 +4,13 @@
 
 Scratch is a coding language and online community where you can create your own interactive stories, games, and animations – and share your creations with others around the world. As young people create and share Scratch projects, they learn to think creatively, reason systematically, and work collaboratively.
 
-Scratch is available for free at https://scratch.mit.edu. Scratch is designed, developed, and moderated by the staff of the [Scratch Foundation](https://www.scratchfoundation.org/), a nonprofit organization, and was started by the Lifelong Kindergarten group at the MIT Media Lab.
+Scratch is [open source](https://github.com/scratchfoundation/) and available for free at [scratch.mit.edu](https://scratch.mit.edu). Scratch is designed, developed, and moderated by the staff of the [Scratch Foundation](https://www.scratchfoundation.org/), a nonprofit organization, and was started by the Lifelong Kindergarten group at the MIT Media Lab.
 
 ### What is TurboWarp?
 
 TurboWarp is a Scratch mod created by [GarboMuffin](https://scratch.mit.edu/users/GarboMuffin/). It makes Scratch projects run much faster and adds several features like custom extensions, which are used by the TurboWarp projects in this repository.
 
-TurboWarp is also free and is available at https://turbowarp.org/.
+TurboWarp is also free and [open source](https://github.com/TurboWarp). It is available at [turbowarp.org](https://turbowarp.org).
 
 ### How do I open your Scratch projects?
 

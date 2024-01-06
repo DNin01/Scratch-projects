@@ -4,7 +4,7 @@ I usually share my Scratch projects on, well, [Scratch](https://scratch.mit.edu/
 
 ## Opening the projects
 
-See [Downloading and Opening](https://github.com/DNin01/Scratch-projects/blob/main/INSTALLING.md) for instructions. All you need is a modern web browser.
+See [Downloading and Opening](./INSTALLING.md) for instructions. All you need is a modern web browser.
 
 ## License and giving credit
 

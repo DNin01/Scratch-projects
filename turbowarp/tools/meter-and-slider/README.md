@@ -47,4 +47,4 @@ Thanks to [Vadik1](https://scratch.mit.edu/users/Vadik1/)'s [Clipping & Blending
 
 ---
 
-(Ͻ) 2023 DNin01 from GitHub. Available under a CC-BY-SA 2.0 license.
+(Ͻ) 2024 DNin01 from GitHub. Available under a CC-BY 4.0 license.

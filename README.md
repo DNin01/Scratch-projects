@@ -8,29 +8,27 @@ See [Downloading and Opening](./INSTALLING.md) for instructions. All you need is
 
 ## License and giving credit
 
-All content in this repository is under a [Creative Commons Attribution-ShareAlike 2.0 license](./LICENSE) unless otherwise stated.
+Content in this repository is licensed under a [Creative Commons Attribution 4.0 license](./LICENSE) _unless otherwise stated_.
 
-This means anyone is allowed to use, adapt, and reshare everything I made in here, under the following conditions:
+You are free to use, adapt, and reshare that content, provided that you give attribution (preferably a mention of my name, a link to this repository, and the copyright license in use). It's best to provide attribution both in the repository containing your Scratch project file (if you have one) and inside your Scratch project itself.
+<details open><summary>For example:</summary>
 
-- You give attribution (preferably a mention of my name, a link to this repository, and the copyright license in use). It's best to provide attribution both in the repository containing your Scratch project (if you have one) and inside your Scratch project itself.
-  <details open><summary>For example:</summary>
+<p>
 
-  <p>
-  
-  > #### In your source code repository
-  > Credits:
-  > - [Video Player Maker](https://github.com/DNin01/Scratch-projects/tree/main/turbowarp/tools/video-player) by [@DNin01](https://github.com/DNin01) (CC-BY-SA 2.0)
-  > #### Inside your Scratch project
-  > Credits:
-  > - Video Player Maker by DNin01
-  > 
-  > (links in source code)
-  
-  </p>
+> #### In your source code repository
+> Credits:
+> - [Video Player Maker](https://github.com/DNin01/Scratch-projects/tree/main/turbowarp/tools/video-player) by [@DNin01](https://github.com/DNin01) (CC-BY 4.0)
+> #### Inside your Scratch project
+> Credits:
+> - Video Player Maker by DNin01 (CC-BY 4.0)
+> 
+> (links in source code)
 
-  </details>
-- License your adaptations of the content under the same license.
+</p>
 
-Provided those conditions are met, you can go ahead and use these in your own projects!
+</details>
+
+> [!NOTE]
+> Up until commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2), the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). For those already reusing content, you have the right to use newer revisions of the content under the new license.
 
 If you use these in a Scratch project you share on the Scratch website, be aware that Scratch is made for kids and linking to GitHub from Scratch might violate their Community Guidelines (I'm not absolutely sure). Please don't not give credit because of that, though.

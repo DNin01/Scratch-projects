@@ -14,11 +14,11 @@ TurboWarp is also free and [open source](https://github.com/TurboWarp). It is av
 
 ### How do I open your Scratch projects?
 
-See [Downloading and Opening](https://github.com/DNin01/Scratch-projects/blob/main/INSTALLING.md).
+See [Downloading and Opening](./INSTALLING.md).
 
 ### Can I use your work in my projects?
 
-Absolutely! Unless otherwise indicated, everything I made in here is under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode), which, by the way, is the same license user-generated content shared to Scratch use. Check the [README](https://github.com/DNin01/Scratch-projects/blob/main/README.md#license-and-giving-credit) for more details.
+Absolutely! Most of the content in here is under a [Creative Commons Attribution 4.0 license](./LICENSE), but some parts are under different licenses. You should check the license of each individual Scratch project at the bottom of their READMEs to be sure. Check [License and giving credit](https://github.com/DNin01/Scratch-projects/blob/main/README.md#license-and-giving-credit) on the [main README](./README.md) for more details.
 
 ### I have another question.
 

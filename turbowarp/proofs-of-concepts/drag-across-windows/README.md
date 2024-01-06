@@ -27,7 +27,7 @@ This is mostly a proof of concept to show that this is possible and to try somet
 - You have to click twice, once to pick up and once to place. The reason I went with this behavior is because, in Windows at least, if you hold down the mouse button while moving the cursor outside the window, only that window will be able to tell where your mouse is going and that your mouse button is down, until you release it.
 - If the clones acting as the draggable items are running code, then the code will be restarted when the item is placed. This happens because when you pick up the item, the clone is actually deleted and the parent sprite takes on its appearance, then a new clone is created when you place it.
 
-## Credits
+## Credits and license
 
 Thanks to the following [TurboWarp extensions](https://extensions.turbowarp.org/) for making this possible:
 - [Local Storage](https://extensions.turbowarp.org/local-storage.js)
@@ -35,8 +35,6 @@ Thanks to the following [TurboWarp extensions](https://extensions.turbowarp.org/
 
 I also used the [Runtime Options](https://extensions.turbowarp.org/runtime-options.js) extension to make the project compatible with any stage size.
 
-The shape tiles come from my project [Shape Board Pro](https://scratch.mit.edu/projects/798778469/) on Scratch, which is under a CC-BY-SA 2.0 license.
+The shape tiles come from my project [Shape Board Pro](https://scratch.mit.edu/projects/798778469/) on Scratch, which is under a CC-BY-SA 2.0 license; (Ͻ) 2023 D-ScratchNinja.
 
----
-
-(Ͻ) 2023 DNin01 from GitHub. Available under a CC-BY-SA 2.0 license.
+Drag Across Windows as a whole is licensed under the terms of CC-BY-SA 2.0, (Ͻ) 2024 DNin01 from GitHub. The code is licensed separately, under the terms of CC-BY 4.0, (Ͻ) 2024 DNin01 from GitHub.

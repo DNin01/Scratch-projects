@@ -29,6 +29,6 @@ You are free to use, adapt, and reshare that content, provided that you give att
 </details>
 
 > [!NOTE]
-> Up until commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2), the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). For those already reusing content, you have the right to use newer revisions of the content under the new license.
+> Originally, the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). Commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2) was the last version licensed under the terms of CC-BY-SA 2.0, and all future versions use CC-BY 4.0, with some exceptions. For those already reusing content, you have the right to use newer versions of the content under their new license.
 
 If you use these in a Scratch project you share on the Scratch website, be aware that Scratch is made for kids and linking to GitHub from Scratch might violate their Community Guidelines (I'm not absolutely sure). Please don't not give credit because of that, though.

@@ -11,18 +11,20 @@ See [Downloading and Opening](./INSTALLING.md) for instructions. All you need is
 Content in this repository is licensed under a [Creative Commons Attribution 4.0 license](./LICENSE) _unless otherwise stated_.
 
 You are free to use, adapt, and reshare that content, provided that you give attribution (preferably a mention of my name, a link to this repository, and the copyright license in use). It's best to provide attribution both in the repository containing your Scratch project file (if you have one) and inside your Scratch project itself.
-<details open><summary>For example:</summary>
+
+By default, it's not possible to add clickable links inside Scratch projects, so just showing the URL which users can manually type in is sufficient.
+
+<details open><summary>Example</summary>
 
 <p>
 
-> #### In your source code repository
+> #### In your source code repository or documentation
 > Credits:
 > - [Video Player Maker](https://github.com/DNin01/Scratch-projects/tree/main/turbowarp/tools/video-player) by [@DNin01](https://github.com/DNin01) (CC-BY 4.0)
 > #### Inside your Scratch project
 > Credits:
-> - Video Player Maker by DNin01 (CC-BY 4.0)
-> 
-> (links in source code)
+> - Video Player Maker by DNin01 (CC-BY 4.0)<br>
+>   <sup>[github.com/DNin01/Scratch-projects](https://github.com/DNin01/Scratch-projects)</sup>
 
 </p>
 

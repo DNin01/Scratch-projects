@@ -30,7 +30,11 @@ By default, it's not possible to add clickable links inside Scratch projects, so
 
 </details>
 
+Again, there may be parts of the repository that have content under different license terms. Double-check the license terms in use at the bottom of each Scratch project's README and follow the license terms listed.
+
+Also make sure to follow the license terms of external content I used. For example, if I used a library someone else made and licensed under the terms of CC-BY 4.0, give credit to them in the same way, and point out that their work is used by mine. I will give credit where credit is due so you know.
+
 > [!NOTE]
-> Originally, the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). Commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2) was the last version licensed under the terms of CC-BY-SA 2.0, and all future versions use CC-BY 4.0, with some exceptions. For those already reusing content, you have the right to use newer versions of the content under their new license.
+> Originally, the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). Commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2) was the last version licensed under the terms of CC-BY-SA 2.0, and all future versions use CC-BY 4.0 by default (some parts use different licenses). For those already reusing content, you have the right to use newer versions of the content under their new license terms.
 
 If you use these in a Scratch project you share on the Scratch website, be aware that Scratch is made for kids and linking to GitHub from Scratch might violate their Community Guidelines (I'm not absolutely sure). Please don't not give credit because of that, though.

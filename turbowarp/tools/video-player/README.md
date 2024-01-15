@@ -59,4 +59,4 @@ Thanks to the following [TurboWarp extensions](https://extensions.turbowarp.org/
 
 ---
 
-(Ͻ) 2023 DNin01 from GitHub. Available under a CC-BY-SA 2.0 license.
+(Ͻ) 2024 DNin01 from GitHub. Available under a CC-BY 4.0 license.

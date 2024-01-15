@@ -37,4 +37,4 @@ I also used the [Runtime Options](https://extensions.turbowarp.org/runtime-optio
 
 The shape tile images come from my project [Shape Board Pro](https://scratch.mit.edu/projects/798778469/) on Scratch, which is under a CC-BY-SA 2.0 license; (Ͻ) 2023 D-ScratchNinja.
 
-Drag Across Windows as a whole is licensed under the terms of CC-BY-SA 2.0, (Ͻ) 2024 DNin01 from GitHub. The code is licensed separately, under the terms of CC-BY 4.0, (Ͻ) 2024 DNin01 from GitHub.
+Drag Across Windows as a whole is licensed under the terms of CC-BY-SA 2.0, (Ͻ) 2024 DNin01 from GitHub. Its code is licensed separately, under the terms of CC-BY 4.0, (Ͻ) 2024 DNin01 from GitHub.

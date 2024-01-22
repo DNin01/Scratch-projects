@@ -53,9 +53,9 @@ If you would like it to be as easy as double-clicking the file, set them to open
 
 #### Make sure you're connected
 
-Content filters or issues with internet connection or the TurboWarp Extension Gallery at [extensions.turbowarp.org](https://extensions.turbowarp.org) can prevent the extensions the projects depend on from loading, and the project will subsequently fail to load.
+The TurboWarp extensions these projects use are not part of their package - the extensions' actual code are loaded from a remote source - the TurboWarp Extension Gallery, at [extensions.turbowarp.org](https://extensions.turbowarp.org). Content filters or issues with internet connection or the TurboWarp Extension Gallery can prevent the extensions the projects depend on from loading, therefore you will be unable to properly use the project.
 
-If you're having issues fetching the extensions, another way to load them is through [TurboWarp Desktop](https://desktop.turbowarp.org/). Being an offline app, it comes bundled with a copy of all of the extensions in the gallery.
+If you're experiencing this issue, another way to get them is through [TurboWarp Desktop](https://desktop.turbowarp.org/). Being an offline app, it comes bundled with a copy of all of the extensions in the gallery.
 
 > [!WARNING]
 > As the desktop app comes with a copy of the extensions in the gallery, they may be outdated and not work in some projects. For the best results, update to the latest version.

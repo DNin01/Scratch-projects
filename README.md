@@ -6,13 +6,13 @@ I usually share my Scratch projects on, well, [Scratch](https://scratch.mit.edu/
 
 See [Downloading and Opening](./INSTALLING.md) for instructions. All you need is a modern web browser.
 
-## License and giving credit
+## License
 
-Content in this repository is licensed under a [Creative Commons Attribution 4.0 license](./LICENSE) _unless otherwise stated_.
+Content in this repository is licensed under a [Creative Commons Attribution 4.0 license](./LICENSE) _unless otherwise stated_. Other licenses include [Creative Commons Attribution-ShareAlike 2.0](./LICENSE-CC-BY-SA-2.0.txt). At the bottom of every Scratch project README, the license terms in use will be clearly listed, and you can find the full documents in the repository's root directory.
 
-You are free to use, adapt, and reshare that content, provided that you give attribution (preferably a mention of my name, a link to this repository, and the copyright license in use). It's best to provide attribution both in the repository containing your Scratch project file (if you have one) and inside your Scratch project itself.
+It's good to provide attribution both in the repository containing your Scratch project file (if you have one) and inside your Scratch project itself.
 
-By default, it's not possible to add clickable links inside Scratch projects, so just showing the URL which users can manually type in is sufficient.
+By default, it's not possible to add clickable links inside Scratch projects, so just showing the repository's URL which users can manually type in is generally sufficient.
 
 <details open><summary>Example</summary>
 
@@ -30,11 +30,10 @@ By default, it's not possible to add clickable links inside Scratch projects, so
 
 </details>
 
-Again, there may be parts of the repository that have content under different license terms. Double-check the license terms in use at the bottom of each Scratch project's README and follow the license terms listed.
-
-Also make sure to follow the license terms of external content I used. For example, if I used a library someone else made and licensed under the terms of CC-BY 4.0, give credit to them in the same way, and point out that their work is used by mine. I will give credit where credit is due so you know.
-
-> [!NOTE]
-> Originally, the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](https://creativecommons.org/licenses/by-sa/2.0/legalcode). Commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2) was the last version licensed under the terms of CC-BY-SA 2.0, and all future versions use CC-BY 4.0 by default (some parts use different licenses). For those already reusing content, you have the right to use newer versions of the content under their new license terms.
-
 If you use these in a Scratch project you share on the Scratch website, be aware that Scratch is made for kids and linking to GitHub from Scratch might violate their Community Guidelines (I'm not absolutely sure). Please don't not give credit because of that, though.
+
+### License history
+
+Below is the license changelog, listing the license terms used by older versions of the content in this repository.
+
+- Originally, the contents of this repository were licensed under a [Creative Commons Attribution-ShareAlike 2.0 license](./LICENSE-CC-BY-SA-2.0.txt). Commit [`2a7ad24`](https://github.com/DNin01/Scratch-projects/commit/2a7ad24ea42b27c086543a39e285d13bc9f187e2) was the last version licensed under the terms of CC-BY-SA 2.0, and all future versions use CC-BY 4.0 by default (though some parts still use CC-BY-SA 2.0).
